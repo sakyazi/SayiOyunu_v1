@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
     TextView d1, d2, d3, d4, res;
     Button b1;
 
-    //changes
+    //changecvcvbvxbcvcxvcxvcxnbvcb
 
     int dig1 = 0, dig2 = 0, dig3 = 0, dig4 = 0, num1, num2, num3, num4, dig_n, flag=1 ;
     String asd = "", sum = "";
